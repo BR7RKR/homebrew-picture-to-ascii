@@ -1,8 +1,8 @@
 cask "pictoascii" do
-  version "1.0.0"
-  sha256 "8c48f7cf84b24e77fc55ad10008636f8627760aa2f9cca905790787da9385185"
+  version "1.0.1"
+  sha256 "7e9fece7939c72c47e2255770ae6fb59bd456374a44803652acb2d1cb1f6173c"
 
-  url "https://github.com/BR7RKR/picture-to-ascii/releases/download/v1.0.0/pictoascii-macos-arm64.tar.gz"
+  url "https://github.com/BR7RKR/picture-to-ascii/releases/download/v1.0.1/pictoascii-macos-arm64.tar.gz"
   name "Pictoascii"
   desc "Small console app that converts picture into ascii symbols image"
   homepage "https://github.com/BR7RKR/picture-to-ascii"
