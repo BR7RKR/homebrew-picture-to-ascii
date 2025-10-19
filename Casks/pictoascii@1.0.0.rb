@@ -1,4 +1,4 @@
-cask "pictoascii" do
+cask "pictoascii@1.0.0" do
   version "1.0.0"
   sha256 "8c48f7cf84b24e77fc55ad10008636f8627760aa2f9cca905790787da9385185"
 
@@ -7,5 +7,5 @@ cask "pictoascii" do
   desc "Small console app that converts picture into ascii symbols image"
   homepage "https://github.com/BR7RKR/picture-to-ascii"
 
-  binary "pictoascii"
+  binary "pictoascii", target: "pictoascii@1.0.0"
 end

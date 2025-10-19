@@ -7,5 +7,5 @@ cask "pictoascii" do
   desc "Small console app that converts picture into ascii symbols image"
   homepage "https://github.com/BR7RKR/picture-to-ascii"
 
-  binary "pictoascii"
+  binary "pictoascii", target: "pictoascii@1.0.1"
 end
