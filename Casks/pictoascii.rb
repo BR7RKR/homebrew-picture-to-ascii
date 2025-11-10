@@ -1,4 +1,4 @@
-cask "pictoasci" do
+cask "pictoascii" do
   version "1.0.2"
   sha256 "0141c4b19024eb285afb676c78c2a76fa433b77eaacf8ce812d518af0092076d"
 
